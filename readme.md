@@ -19,9 +19,9 @@
 
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yeung66&theme=prussian&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeung66&theme=prussian&hide_langs_below=1&layout=compact" />
 </a>
 
 <a href="#">
-  <img align="left" src='https://github-readme-stats.anuraghazra1.vercel.app/api?username=yeung66&show_icons=true&theme=prussian&count_private=true&include_all_commits=true' alt="YeungYeah's github stats" />
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=yeung66&show_icons=true&theme=prussian&count_private=true&include_all_commits=true' alt="YeungYeah's github stats" />
 </a>
