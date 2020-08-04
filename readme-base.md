@@ -30,6 +30,4 @@
 
 ### Moments
 
-> moment from [blog](http://scottyeung.top/moments) 
-
- 8.4  想要拥有/练就快速验证与实现 idea 的能力。  --- 
+> moment from [blog](http://scottyeung.top/moments)
