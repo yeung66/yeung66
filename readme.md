@@ -32,13 +32,15 @@
 
 > moment from [blog](http://scottyeung.top/moments) 
 
- ### 9 月
+ 9.7
 
-9.3
+恭喜 TSM 时隔两年半再次捧起联赛冠军！（老粉丝的泪目
 
-收到了一份很棒的生日礼物，让我重新感受到了节日中仪式感所带来的触动.
+从 S7 世界赛在武汉现场亲眼看着 TSM 小组赛出局，再到 S8 换人之后的各种沉寂，失去冠军，失去世界赛资格，途中受到的各种嘲笑与谩骂，只能默默承受，因为也确实该骂。现在总算是走过来了，至于这次世界赛会不会又是经典 16 强
 
-![](http://scottyeung.top/moments/image/200903.jpg)
+Who cares？
+
+![](http://scottyeung.top/moments/image/200907.jpg)
 
 ---
 
