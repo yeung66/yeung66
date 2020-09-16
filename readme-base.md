@@ -19,7 +19,7 @@
 
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeung66&theme=prussian&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeung66&theme=prussian&&hide=css,html,matlab&langs_count=9&layout=compact&hide_langs_below=1" />
 </a>
 
 <a href="#">
