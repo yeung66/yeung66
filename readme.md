@@ -32,15 +32,33 @@
 
 > moment from [blog](http://scottyeung.top/moments) 
 
- ### 10 月
+ 
+Welcome to .NET 5.0!
+---------------------
+SDK Version: 5.0.100-rc.2.20479.15
 
-10.5
+Telemetry
+---------
+The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
 
-拒绝完美主义，不仅是要拒绝对于完美结果的过分追求，更要拒绝对过程中可能出现的各种完美状况的要求。例如总是想着在开始工作前先定好一个完美的计划或者完美的日程安排，或者总是想着能够有一个完美的学习状态，能够有着一段较长的学习时间不受干扰。再有就是，总是想着将某些任务，留到某个时间点才开始，想着在该时间点之前先做完做好其它事情，才专心开始这些任务。
+Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
 
-这样的隐藏的完美主义倾向，原本是为了学得更好，但实际上反而导致自己的拖延加剧。国庆假期，可以用于学习/工作的时间多了，但实际的学习时间却反而少了，很大一部分原因就是如此。因为时间多了，所以一些带着低质量学习状态的时间段干脆放弃不学了吧，干脆就直接打开直播看会比赛，看完再学。
+----------------
+Installed an ASP.NET Core HTTPS development certificate.
+To trust the certificate run 'dotnet dev-certs https --trust' (Windows and macOS only).
+Learn about HTTPS: https://aka.ms/dotnet-https
+----------------
+Write your first app: https://aka.ms/dotnet-hello-world
+Find out what's new: https://aka.ms/dotnet-whats-new
+Explore documentation: https://aka.ms/dotnet-docs
+Report issues and find source on GitHub: https://github.com/dotnet/core
+Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli
+--------------------------------------------------------------------------------------
+10.24
 
-虽说高质量的学习能够带来高效率和好效果，但是缺乏总量的话，还是等于没有。
+又一次亲身证明了 ddl 并不会提升你的行动力或能力，让你把事情完成得更加完美。
+
+它只会让你在最后时刻拥有提交一堆垃圾的勇气 🤣。
 
 ---
 
