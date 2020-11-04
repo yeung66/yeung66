@@ -32,33 +32,11 @@
 
 > moment from [blog](http://scottyeung.top/moments) 
 
- 
-Welcome to .NET 5.0!
----------------------
-SDK Version: 5.0.100-rc.2.20479.15
+ ### 11 月
 
-Telemetry
----------
-The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+11.4 
 
-Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
-
-----------------
-Installed an ASP.NET Core HTTPS development certificate.
-To trust the certificate run 'dotnet dev-certs https --trust' (Windows and macOS only).
-Learn about HTTPS: https://aka.ms/dotnet-https
-----------------
-Write your first app: https://aka.ms/dotnet-hello-world
-Find out what's new: https://aka.ms/dotnet-whats-new
-Explore documentation: https://aka.ms/dotnet-docs
-Report issues and find source on GitHub: https://github.com/dotnet/core
-Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli
---------------------------------------------------------------------------------------
-10.24
-
-又一次亲身证明了 ddl 并不会提升你的行动力或能力，让你把事情完成得更加完美。
-
-它只会让你在最后时刻拥有提交一堆垃圾的勇气 🤣。
+不知道从什么时候开始，我对于时间的使用似乎出现了一种精神洁癖般的病态，容易受到干扰的时间，不学；连续的时间长度不够长，不学；学习的形式不太方便，不学。明明即使这段时间利用起来很低效但也确实可以完成一定量的任务，就不利用，宁可坐在那刷知乎刷 feedly 毫无意义地浪费掉时间，也不愿意低效使用时间。
 
 ---
 
