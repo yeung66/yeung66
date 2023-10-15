@@ -2,7 +2,7 @@
 
 > :dark_sunglasses: free and focus ~
 
-- :man_student: SE & CS 学生在读 in WHU & NJU
+- :man_student: SE & CS in WHU & NJU
 - :globe_with_meridians: 精通中英粤三语地道广东人
 - :spider_web: 云计算/云服务/一切 Web 化的推崇者
 - :fireworks: 永远对新技术有强烈的好奇心和探索欲
